@@ -1,0 +1,13 @@
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--2\Scores\bin\Debug\netcoreapp3.1\Scores.exe
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--2\Scores\bin\Debug\netcoreapp3.1\Scores.deps.json
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--2\Scores\bin\Debug\netcoreapp3.1\Scores.runtimeconfig.json
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--2\Scores\bin\Debug\netcoreapp3.1\Scores.runtimeconfig.dev.json
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--2\Scores\bin\Debug\netcoreapp3.1\Scores.dll
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--2\Scores\bin\Debug\netcoreapp3.1\Scores.pdb
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--2\Scores\obj\Debug\netcoreapp3.1\Scores.csprojAssemblyReference.cache
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--2\Scores\obj\Debug\netcoreapp3.1\Scores.AssemblyInfoInputs.cache
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--2\Scores\obj\Debug\netcoreapp3.1\Scores.AssemblyInfo.cs
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--2\Scores\obj\Debug\netcoreapp3.1\Scores.csproj.CoreCompileInputs.cache
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--2\Scores\obj\Debug\netcoreapp3.1\Scores.dll
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--2\Scores\obj\Debug\netcoreapp3.1\Scores.pdb
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--2\Scores\obj\Debug\netcoreapp3.1\Scores.genruntimeconfig.cache

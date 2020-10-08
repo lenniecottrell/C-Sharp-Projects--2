@@ -1,0 +1,12 @@
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--2\FinalProject2\obj\Debug\FinalProject2.csprojAssemblyReference.cache
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--2\FinalProject2\obj\Debug\FinalProject2.csproj.CoreCompileInputs.cache
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--2\FinalProject2\bin\Debug\FinalProject2.exe.config
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--2\FinalProject2\bin\Debug\FinalProject2.exe
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--2\FinalProject2\bin\Debug\FinalProject2.pdb
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--2\FinalProject2\bin\Debug\EntityFramework.dll
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--2\FinalProject2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--2\FinalProject2\bin\Debug\EntityFramework.xml
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--2\FinalProject2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--2\FinalProject2\obj\Debug\FinalProject2.csproj.CopyComplete
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--2\FinalProject2\obj\Debug\FinalProject2.exe
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--2\FinalProject2\obj\Debug\FinalProject2.pdb
